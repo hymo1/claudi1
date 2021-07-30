@@ -1,7 +1,7 @@
 # claudi1
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Projet 1</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://6103a5c2e677dd0a8afd7bbe--amazing-mcclintock-6dbd4e.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/hymo1/claudi1">
       Solution
     </a>
     <span> | </span>
@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@hymo1](https://github.com/hymo1)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
